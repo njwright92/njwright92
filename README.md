@@ -1,38 +1,36 @@
-# Nathan Wright - Aspiring Full Stack Developer
+# Nathan Wright - Emerging Full Stack Developer
 
-Hello! I'm Nathan Wright, an aspiring Full Stack Developer with a keen focus on front-end and mobile development. Graduated in Modern Full-Stack Web + Mobile Development, I combine resourcefulness with a zeal for learning new tech.
+Hello world! I'm Nathan Wright, a passionate Full Stack Developer specializing in front-end and mobile development. With my educational background in Modern Full-Stack Web + Mobile Development, I bring a blend of innovation and a deep commitment to learning cutting-edge technologies.
 
-## Skills
+## Technical Proficiency
 
-- Front-End: HTML5, CSS3, JavaScript, TypeScript, Tailwind, Next.js, Bootstrap
-- Mobile: React Native
-- Back-End: Node.js
-- Deployment: Vercel, GCP
-- Database: Firebase/Firestore
+- **Front-End Development**: Proficient in HTML5, CSS3,  Bootstrap, JavaScript,TypeScript, Tailwind, React, Next.js, . I focus on creating responsive and user-friendly interfaces.
+- **Mobile Development**: Skilled in Expo, React Native, developing apps with a mobile-first approach.
+- **Back-End Skills**: Competent in Node.js for server-side development.
+- **Deployment Platforms**: Experienced in deploying applications via Vercel, Netlify and GCP.
+- **Database Management**: Proficient in managing and integrating databases with GCP, Firebase/Firestore.
 
+### Current Projects & Learning
 
-### Current Endeavors
+🔭 I'm actively engaged in building mobile-first applications using React Native and various JavaScript frameworks.
+🌱 Currently enhancing my skills in React, exploring diverse front-end frameworks, and venturing into Python for AI and machine learning.
 
-🔭 Developing mobile-first applications using React Native and JavaScript frameworks.
-🌱 Advancing my React skills, exploring front-end frameworks, and delving into Python for AI and machine learning.
+### Collaboration & Professional Growth
 
+👯 I'm enthusiastic about contributing to open-source projects, especially in web and mobile development.
+🤔 Actively seeking mentorship and collaboration opportunities to navigate the tech landscape and broaden my professional horizons.
 
-### Collaboration & Guidance
+### Connect and Collaborate
 
-👯 Open to contributing to open-source web and mobile projects.
-🤔 Seeking mentorship to navigate the tech industry and expand my professional network.
+💬 Let's talk about React, React Native, front-end technologies, or GCP Firebase/Firestore.
+🚀 Currently developing "Humor Hub," an extensive comedy platform, and innovating with an AI-driven comic bot.
+📫 Reach out to me at njwright92@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/nathan-wright-78b237123/).
 
+#### Personal Interests
 
-### Let's Talk!
+Beyond coding, my interests include stand-up comedy, where I have enjoyed performing at open mic nights. I'm also an active participant in a local ML/AI club, expanding my skills in Python and machine learning.
 
-💬 Discuss React, React Native, front-end development, or GCP Firebase/Firestore with me.
-🚀 Building "Humor Hub," a comprehensive comedy platform, and creating an AI comic bot.
-📫 Reach me at njwright92@gmail.com or [LinkedIn](https://www.linkedin.com/in/nathan-wright-78b237123/).
+⚡ My journey into software development has been incredibly rewarding, and I am eager to continue making strides in this vibrant and ever-evolving industry.
 
-
-#### Fun Fact
-Apart from coding, I'm passionate about comedy, having performed at open mic events. I'm also a member of a local ML/AI club, expanding my Python machine learning skills.
-
-⚡ Transitioning into software development has been thrilling, and I'm excited to continue growing in this dynamic field
 
 
