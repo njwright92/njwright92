@@ -27,7 +27,7 @@ Hello! I'm Nathan Wright, an aspiring Full Stack Developer with a keen focus on 
 
 💬 Discuss React, React Native, front-end development, or GCP Firebase/Firestore with me.
 🚀 Building "Humor Hub," a comprehensive comedy platform, and creating an AI comic bot.
-📫 Reach me at njwright92@gmail.com or LinkedIn[(https://www.linkedin.com/in/nathan-wright-78b237123/)].
+📫 Reach me at njwright92@gmail.com or [LinkedIn](https://www.linkedin.com/in/nathan-wright-78b237123/).
 
 
 #### Fun Fact
